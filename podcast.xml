@@ -8,7 +8,7 @@
     <itunes:author>Jane Gao</itunes:author>
     <itunes:summary></itunes:summary>
     <itunes:owner>
-      <itunes:name>ITUNES-OWNER</itunes:name>
+      <itunes:name>Jane Gao</itunes:name>
       <itunes:email>ITUNES-EMAIL</itunes:email>
     </itunes:owner>
     <itunes:image href="https://j-talks.com" />
@@ -21,12 +21,32 @@
     <item>
       <title>001《华尔街日报》是如何讲故事的</title>
       <description> 说起”故事”，人人都不会觉得陌生。然而，如果想要去讲一个故事，还要把故事讲得有趣——也许就没那么简单了。今天要介绍的书正是关于”讲故事”这件事的——「《华尔街日报》是如何讲故事的」（THE ART AND CRAFT of FEATURE WRITING)。
+        
+            
+        
+        
+          var ap = new APlayer({
+            element: document.getElementById(&amp;quot;aplayer-xPrXazCw&amp;quot;),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: &amp;quot;001《华尔街日报》是如何讲故事的&amp;quot;,
+              author: &amp;quot;J-talks&amp;quot;,
+              url: &amp;quot;001.mp3&amp;quot;,
+              pic: &amp;quot;/2018/12/07/001《华尔街日报》是如何讲故事的/IMG_0577.JPG&amp;quot;,
+              lrc: &amp;quot;&amp;quot;
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        
  </description>
       <itunes:author> Jane Gao</itunes:author>
       <itunes:subtitle> </itunes:subtitle>
       <itunes:summary>  </itunes:summary>
-      <itunes:image href="http://pj9e8jz43.bkt.clouddn.com/" />
-      <enclosure url="http://pj9e8jz43.bkt.clouddn.com//002%20%E5%81%A5%E8%BA%AB%E6%95%99%E4%BC%9A%E6%88%91%E7%9A%84%E4%BA%8B%202.m4a" length="" type=""/>
+      <itunes:image href="D:\软件\My Repository\jtalk\source\_posts\" />
+      <enclosure url="D:\软件\My Repository\jtalk\source\_posts\\001《华尔街日报》是如何讲故事的\001.mp3" length="" type=""/>
       <guid></guid>
       <pubDate>Fri, 07 Dec 2018 08:46:41 GMT</pubDate>
       <itunes:duration>00:23:16</itunes:duration>
