@@ -26,14 +26,14 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-gMUeAxLp&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-BhohAelV&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
             music: {
               title: &amp;quot;001《华尔街日报》是如何讲故事的&amp;quot;,
               author: &amp;quot;J-talks&amp;quot;,
-              url: &amp;quot;001.mp3&amp;quot;,
+              url: &amp;quot;/2018/12/07/001《华尔街日报》是如何讲故事的/001.mp3&amp;quot;,
               pic: &amp;quot;/2018/12/07/001《华尔街日报》是如何讲故事的/IMG_0577.JPG&amp;quot;,
               lrc: &amp;quot;&amp;quot;
             }
