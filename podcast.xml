@@ -19,6 +19,43 @@
     <language>zh-CN</language>
     
     <item>
+      <title>幸福在哪里？——「积极心理学」课程笔记</title>
+      <description> 大家都想过幸福的生活，那么有没有人想过幸福究竟是什么呢？今天要介绍的就是一门研究幸福的课程——哈佛大学心理课1504——《积极心理学》。课程的主讲人Tal Ben-Shahar教授系统地研究了“幸福”这件事，广泛涉猎各类书籍寻找规律，以大量心理学实验结果为支撑，系统地介绍了这个主题下的方方面面的问题，包括：“幸福是什么”、“有哪些原则可以帮助人么获得幸福”、“如何应用这些原则来应对生活中方方面面的问题”。下面就让我们一起了解一下这么关于“幸福”的课吧。
+        
+            
+        
+        
+          var ap = new APlayer({
+            element: document.getElementById(&amp;quot;aplayer-HaMSMEwd&amp;quot;),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: &amp;quot;003 幸福在哪里？——「积极心理学」课程笔记&amp;quot;,
+              author: &amp;quot;J-talks&amp;quot;,
+              url: &amp;quot;/2019/03/02/003%20幸福在哪里？——「积极心理学」课程笔记/003%20幸福在哪里？——「积极心理学」课程笔记.m4a&amp;quot;,
+              pic: &amp;quot;/2019/03/02/003%20幸福在哪里？——「积极心理学」课程笔记/20171001.JPG&amp;quot;,
+              lrc: &amp;quot;&amp;quot;
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        
+ </description>
+      <itunes:author> Jane Gao</itunes:author>
+      <itunes:subtitle> </itunes:subtitle>
+      <itunes:summary>  </itunes:summary>
+      <itunes:image href="D:\软件\My Repository\jtalk\source\_posts\" />
+      <enclosure url="D:\软件\My Repository\jtalk\source\_posts\\003 幸福在哪里？——「积极心理学」课程笔记.m4a" length="" type=""/>
+      <guid></guid>
+      <pubDate>Sat, 02 Mar 2019 07:44:49 GMT</pubDate>
+      <itunes:duration>00:19:44</itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+        
+      </psc:chapters>
+    </item>
+    
+    <item>
       <title>001《华尔街日报》是如何讲故事的</title>
       <description> 说起”故事”，人人都不会觉得陌生。然而，如果想要去讲一个故事，还要把故事讲得有趣——也许就没那么简单了。今天要介绍的书正是关于”讲故事”这件事的——「《华尔街日报》是如何讲故事的」（THE ART AND CRAFT of FEATURE WRITING)。
         
@@ -26,7 +63,7 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-QnrUxuHN&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-xBXkrkBm&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
