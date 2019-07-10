@@ -26,7 +26,7 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-HaMSMEwd&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-GtMaUuoc&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -63,7 +63,7 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-xBXkrkBm&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-BPXNDKuF&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
