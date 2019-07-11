@@ -19,37 +19,180 @@
     <language>zh-CN</language>
     
     <item>
-      <title>幸福在哪里？——「积极心理学」课程笔记</title>
-      <description> 大家都想过幸福的生活，那么有没有人想过幸福究竟是什么呢？今天要介绍的就是一门研究幸福的课程——哈佛大学心理课1504——《积极心理学》。课程的主讲人Tal Ben-Shahar教授系统地研究了“幸福”这件事，广泛涉猎各类书籍寻找规律，以大量心理学实验结果为支撑，系统地介绍了这个主题下的方方面面的问题，包括：“幸福是什么”、“有哪些原则可以帮助人么获得幸福”、“如何应用这些原则来应对生活中方方面面的问题”。下面就让我们一起了解一下这么关于“幸福”的课吧。
+      <title>007 用GTD对抗焦虑——「搞定I——无压力工作的艺术」</title>
+      <description> 
         
             
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-GtMaUuoc&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-QsiGGmvY&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
             music: {
-              title: &amp;quot;003 幸福在哪里？——「积极心理学」课程笔记&amp;quot;,
+              title: &amp;quot;007 用GTD对抗焦虑——「搞定I——无压力工作的艺术」&amp;quot;,
               author: &amp;quot;J-talks&amp;quot;,
-              url: &amp;quot;/2019/03/02/003%20幸福在哪里？——「积极心理学」课程笔记/003%20幸福在哪里？——「积极心理学」课程笔记.m4a&amp;quot;,
-              pic: &amp;quot;/2019/03/02/003%20幸福在哪里？——「积极心理学」课程笔记/20171001.JPG&amp;quot;,
+              url: &amp;quot;/2019/07/11/007-用GTD对抗焦虑——「搞定I——无压力工作的艺术」/007%20用GTD对抗焦虑——「搞定I——无压力工作的艺术」%20.m4a&amp;quot;,
+              pic: &amp;quot;/2019/07/11/007-用GTD对抗焦虑——「搞定I——无压力工作的艺术」/FCQLE6623.JPG&amp;quot;,
               lrc: &amp;quot;&amp;quot;
             }
           });
           window.aplayers || (window.aplayers = []);
           window.aplayers.push(ap);
-        
- </description>
+         </description>
       <itunes:author> Jane Gao</itunes:author>
       <itunes:subtitle> </itunes:subtitle>
       <itunes:summary>  </itunes:summary>
       <itunes:image href="D:\软件\My Repository\jtalk\source\_posts\" />
-      <enclosure url="D:\软件\My Repository\jtalk\source\_posts\\003 幸福在哪里？——「积极心理学」课程笔记.m4a" length="" type=""/>
+      <enclosure url="D:\软件\My Repository\jtalk\source\_posts\\007-用GTD对抗焦虑——「搞定I——无压力工作的艺术」\007 用GTD对抗焦虑——「搞定I——无压力工作的艺术」 .m4a" length="" type=""/>
       <guid></guid>
-      <pubDate>Sat, 02 Mar 2019 07:44:49 GMT</pubDate>
-      <itunes:duration>00:19:44</itunes:duration>
+      <pubDate>Thu, 11 Jul 2019 15:40:25 GMT</pubDate>
+      <itunes:duration>00:35:47</itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+        
+      </psc:chapters>
+    </item>
+    
+    <item>
+      <title>006 假如一个人活了一万四千年</title>
+      <description> 
+        
+            
+        
+        
+          var ap = new APlayer({
+            element: document.getElementById(&amp;quot;aplayer-EjqTcVWx&amp;quot;),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: &amp;quot;006 假如一个人活了一万四千年&amp;quot;,
+              author: &amp;quot;J-talks&amp;quot;,
+              url: &amp;quot;/2019/07/11/006-假如一个人活了一万四千年/006%20假如一个人活了一万四千年.m4a&amp;quot;,
+              pic: &amp;quot;/2019/07/11/006-假如一个人活了一万四千年/20151031_163808.jpg&amp;quot;,
+              lrc: &amp;quot;&amp;quot;
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+         </description>
+      <itunes:author> Jane Gao</itunes:author>
+      <itunes:subtitle> </itunes:subtitle>
+      <itunes:summary>  </itunes:summary>
+      <itunes:image href="D:\软件\My Repository\jtalk\source\_posts\" />
+      <enclosure url="D:\软件\My Repository\jtalk\source\_posts\\006-假如一个人活了一万四千年\006 假如一个人活了一万四千年.m4a" length="" type=""/>
+      <guid></guid>
+      <pubDate>Thu, 11 Jul 2019 15:35:44 GMT</pubDate>
+      <itunes:duration>00:10:56</itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+        
+      </psc:chapters>
+    </item>
+    
+    <item>
+      <title>005 一部关于超级英雄的美剧 —— 「杰西卡·琼斯」 </title>
+      <description> 
+        
+            
+        
+        
+          var ap = new APlayer({
+            element: document.getElementById(&amp;quot;aplayer-WPGqVcEB&amp;quot;),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: &amp;quot;005 一部关于超级英雄的美剧 —— 「杰西卡·琼斯」&amp;quot;,
+              author: &amp;quot;J-talks&amp;quot;,
+              url: &amp;quot;/2019/07/11/005-一部关于超级英雄的美剧-——-「杰西卡·琼斯」/005%20一部关于超级英雄的美剧%20——%20「杰西卡·琼斯」%20.m4a&amp;quot;,
+              pic: &amp;quot;/2019/07/11/005-一部关于超级英雄的美剧-——-「杰西卡·琼斯」/IMG_1320.JPG&amp;quot;,
+              lrc: &amp;quot;&amp;quot;
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+         </description>
+      <itunes:author> Jane Gao</itunes:author>
+      <itunes:subtitle> </itunes:subtitle>
+      <itunes:summary>  </itunes:summary>
+      <itunes:image href="D:\软件\My Repository\jtalk\source\_posts\" />
+      <enclosure url="D:\软件\My Repository\jtalk\source\_posts\\005-一部关于超级英雄的美剧-——-「杰西卡·琼斯」\005 一部关于超级英雄的美剧 —— 「杰西卡·琼斯」 .m4a" length="" type=""/>
+      <guid></guid>
+      <pubDate>Thu, 11 Jul 2019 15:31:30 GMT</pubDate>
+      <itunes:duration>00:23:16</itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+        
+      </psc:chapters>
+    </item>
+    
+    <item>
+      <title>004 《生活大爆炸》完结了</title>
+      <description> 
+        
+            
+        
+        
+          var ap = new APlayer({
+            element: document.getElementById(&amp;quot;aplayer-rtlZMQIA&amp;quot;),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: &amp;quot;004 《生活大爆炸》完结了&amp;quot;,
+              author: &amp;quot;J-talks&amp;quot;,
+              url: &amp;quot;/2019/07/11/004-《生活大爆炸》完结了/004%20《生活大爆炸》完结了.m4a&amp;quot;,
+              pic: &amp;quot;/2019/07/11/004-《生活大爆炸》完结了/IMG_1901.JPG&amp;quot;,
+              lrc: &amp;quot;&amp;quot;
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+         </description>
+      <itunes:author> Jane Gao</itunes:author>
+      <itunes:subtitle> </itunes:subtitle>
+      <itunes:summary>  </itunes:summary>
+      <itunes:image href="D:\软件\My Repository\jtalk\source\_posts\" />
+      <enclosure url="D:\软件\My Repository\jtalk\source\_posts\\004-《生活大爆炸》完结了\004 《生活大爆炸》完结了.m4a" length="" type=""/>
+      <guid></guid>
+      <pubDate>Thu, 11 Jul 2019 15:27:43 GMT</pubDate>
+      <itunes:duration>00:16:14</itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+        
+      </psc:chapters>
+    </item>
+    
+    <item>
+      <title>002 健身教会我的事</title>
+      <description> 
+        
+            
+        
+        
+          var ap = new APlayer({
+            element: document.getElementById(&amp;quot;aplayer-XsHvKGVE&amp;quot;),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: &amp;quot;002 健身教会我的事&amp;quot;,
+              author: &amp;quot;J-talks&amp;quot;,
+              url: &amp;quot;/2019/07/11/002-健身教会我的事/002%20健身教会我的事.m4a&amp;quot;,
+              pic: &amp;quot;/2019/07/11/002-健身教会我的事/IMG_E8276.JPG&amp;quot;,
+              lrc: &amp;quot;&amp;quot;
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+         </description>
+      <itunes:author> Jane Gao</itunes:author>
+      <itunes:subtitle> </itunes:subtitle>
+      <itunes:summary>  </itunes:summary>
+      <itunes:image href="D:\软件\My Repository\jtalk\source\_posts\" />
+      <enclosure url="D:\软件\My Repository\jtalk\source\_posts\\002-健身教会我的事\002 健身教会我的事.m4a" length="" type=""/>
+      <guid></guid>
+      <pubDate>Thu, 11 Jul 2019 15:16:56 GMT</pubDate>
+      <itunes:duration>00:07:33</itunes:duration>
       <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
         
       </psc:chapters>
@@ -63,7 +206,7 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-BPXNDKuF&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-DODQdbEz&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
