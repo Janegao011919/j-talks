@@ -26,14 +26,14 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-NuJlfqFl&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-NYWZGVSB&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
             music: {
               title: &amp;quot;007 用GTD对抗焦虑——「搞定I——无压力工作的艺术」&amp;quot;,
               author: &amp;quot;J-talks&amp;quot;,
-              url: &amp;quot;https://jtalks.b-cdn.net/audio/007-%E7%94%A8GTD%E5%AF%B9%E6%8A%97%E7%84%A6%E8%99%91%E2%80%94%E2%80%94%E3%80%8C%E6%90%9E%E5%AE%9AI%E2%80%94%E2%80%94%E6%97%A0%E5%8E%8B%E5%8A%9B%E5%B7%A5%E4%BD%9C%E7%9A%84%E8%89%BA%E6%9C%AF%E3%80%8D/%E5%81%87%E5%A6%82%E4%B8%80%E4%B8%AA%E6%B4%BB%E4%BA%86%E4%B8%80%E4%B8%87%E5%9B%9B%E5%8D%83%E5%B9%B4%E5%9D%90%E5%9C%A8%E4%BD%A0%E9%9D%A2%E5%89%8D.m4a&amp;quot;,
+              url: &amp;quot;https://jtalks.b-cdn.net/audio/007-%E7%94%A8GTD%E5%AF%B9%E6%8A%97%E7%84%A6%E8%99%91%E2%80%94%E2%80%94%E3%80%8C%E6%90%9E%E5%AE%9AI%E2%80%94%E2%80%94%E6%97%A0%E5%8E%8B%E5%8A%9B%E5%B7%A5%E4%BD%9C%E7%9A%84%E8%89%BA%E6%9C%AF%E3%80%8D/007%20%E7%94%A8GTD%E5%AF%B9%E6%8A%97%E7%84%A6%E8%99%91%E2%80%94%E2%80%94%E3%80%8C%E6%90%9E%E5%AE%9AI%E2%80%94%E2%80%94%E6%97%A0%E5%8E%8B%E5%8A%9B%E5%B7%A5%E4%BD%9C%E7%9A%84%E8%89%BA%E6%9C%AF%E3%80%8D%20.m4a&amp;quot;,
               pic: &amp;quot;https://jtalks.b-cdn.net/audio/007-%E7%94%A8GTD%E5%AF%B9%E6%8A%97%E7%84%A6%E8%99%91%E2%80%94%E2%80%94%E3%80%8C%E6%90%9E%E5%AE%9AI%E2%80%94%E2%80%94%E6%97%A0%E5%8E%8B%E5%8A%9B%E5%B7%A5%E4%BD%9C%E7%9A%84%E8%89%BA%E6%9C%AF%E3%80%8D/FCQLE6623.JPG&amp;quot;,
               lrc: &amp;quot;&amp;quot;
             }
@@ -45,7 +45,7 @@
       <itunes:subtitle> </itunes:subtitle>
       <itunes:summary>  </itunes:summary>
       <itunes:image href="https://jtalks.b-cdn.net/audio/" />
-      <enclosure url="https://jtalks.b-cdn.net/audio/https://jtalks.b-cdn.net/audio/007-%E7%94%A8GTD%E5%AF%B9%E6%8A%97%E7%84%A6%E8%99%91%E2%80%94%E2%80%94%E3%80%8C%E6%90%9E%E5%AE%9AI%E2%80%94%E2%80%94%E6%97%A0%E5%8E%8B%E5%8A%9B%E5%B7%A5%E4%BD%9C%E7%9A%84%E8%89%BA%E6%9C%AF%E3%80%8D/%E5%81%87%E5%A6%82%E4%B8%80%E4%B8%AA%E6%B4%BB%E4%BA%86%E4%B8%80%E4%B8%87%E5%9B%9B%E5%8D%83%E5%B9%B4%E5%9D%90%E5%9C%A8%E4%BD%A0%E9%9D%A2%E5%89%8D.m4a" length="" type=""/>
+      <enclosure url="https://jtalks.b-cdn.net/audio/https://jtalks.b-cdn.net/audio/007-%E7%94%A8GTD%E5%AF%B9%E6%8A%97%E7%84%A6%E8%99%91%E2%80%94%E2%80%94%E3%80%8C%E6%90%9E%E5%AE%9AI%E2%80%94%E2%80%94%E6%97%A0%E5%8E%8B%E5%8A%9B%E5%B7%A5%E4%BD%9C%E7%9A%84%E8%89%BA%E6%9C%AF%E3%80%8D/007%20%E7%94%A8GTD%E5%AF%B9%E6%8A%97%E7%84%A6%E8%99%91%E2%80%94%E2%80%94%E3%80%8C%E6%90%9E%E5%AE%9AI%E2%80%94%E2%80%94%E6%97%A0%E5%8E%8B%E5%8A%9B%E5%B7%A5%E4%BD%9C%E7%9A%84%E8%89%BA%E6%9C%AF%E3%80%8D%20.m4a" length="" type=""/>
       <guid></guid>
       <pubDate>Thu, 11 Jul 2019 15:40:25 GMT</pubDate>
       <itunes:duration>00:35:47</itunes:duration>
@@ -62,7 +62,7 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-mLEPhrxu&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-diWYmcFX&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -98,15 +98,15 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-ZhefTHiA&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-sXUtOPfS&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
             music: {
               title: &amp;quot;005 一部关于超级英雄的美剧 —— 「杰西卡·琼斯」&amp;quot;,
-              author: &amp;quot;https://jtalks.b-cdn.net/audio/005-%E4%B8%80%E9%83%A8%E5%85%B3%E4%BA%8E%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%E7%9A%84%E7%BE%8E%E5%89%A7-%E2%80%94%E2%80%94-%E3%80%8C%E6%9D%B0%E8%A5%BF%E5%8D%A1%C2%B7%E7%90%BC%E6%96%AF%E3%80%8D/005%20%E4%B8%80%E9%83%A8%E5%85%B3%E4%BA%8E%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%E7%9A%84%E7%BE%8E%E5%89%A7%20%E2%80%94%E2%80%94%20%E3%80%8C%E6%9D%B0%E8%A5%BF%E5%8D%A1%C2%B7%E7%90%BC%E6%96%AF%E3%80%8D%20.m4a&amp;quot;,
-              url: &amp;quot;https://jtalks.b-cdn.net/audio/005-%E4%B8%80%E9%83%A8%E5%85%B3%E4%BA%8E%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%E7%9A%84%E7%BE%8E%E5%89%A7-%E2%80%94%E2%80%94-%E3%80%8C%E6%9D%B0%E8%A5%BF%E5%8D%A1%C2%B7%E7%90%BC%E6%96%AF%E3%80%8D/IMG_1320.JPG&amp;quot;,
-              pic: &amp;quot;&amp;quot;,
+              author: &amp;quot;J-talks&amp;quot;,
+              url: &amp;quot;https://jtalks.b-cdn.net/audio/005-%E4%B8%80%E9%83%A8%E5%85%B3%E4%BA%8E%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%E7%9A%84%E7%BE%8E%E5%89%A7-%E2%80%94%E2%80%94-%E3%80%8C%E6%9D%B0%E8%A5%BF%E5%8D%A1%C2%B7%E7%90%BC%E6%96%AF%E3%80%8D/005%20%E4%B8%80%E9%83%A8%E5%85%B3%E4%BA%8E%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%E7%9A%84%E7%BE%8E%E5%89%A7%20%E2%80%94%E2%80%94%20%E3%80%8C%E6%9D%B0%E8%A5%BF%E5%8D%A1%C2%B7%E7%90%BC%E6%96%AF%E3%80%8D%20.m4a&amp;quot;,
+              pic: &amp;quot;https://jtalks.b-cdn.net/audio/005-%E4%B8%80%E9%83%A8%E5%85%B3%E4%BA%8E%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%E7%9A%84%E7%BE%8E%E5%89%A7-%E2%80%94%E2%80%94-%E3%80%8C%E6%9D%B0%E8%A5%BF%E5%8D%A1%C2%B7%E7%90%BC%E6%96%AF%E3%80%8D/IMG_1320.JPG&amp;quot;,
               lrc: &amp;quot;&amp;quot;
             }
           });
@@ -134,7 +134,7 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-hIzyqqcp&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-yllMHugd&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -170,7 +170,7 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-sjuhNHvk&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-lCCwCIHN&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -206,7 +206,7 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-uEoprQPq&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-PvrCPzuB&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
