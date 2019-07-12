@@ -12,8 +12,8 @@
       <itunes:email>ITUNES-EMAIL</itunes:email>
     </itunes:owner>
     <itunes:image href="https://j-talks.com" />
-    <itunes:category text="CATEGORY">
-      <itunes:category text="CATEGORY" />
+    <itunes:category text="读书，生活">
+      <itunes:category text="读书，生活" />
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <language>zh-CN</language>
@@ -44,8 +44,8 @@
       <itunes:author> Jane Gao</itunes:author>
       <itunes:subtitle> </itunes:subtitle>
       <itunes:summary>  </itunes:summary>
-      <itunes:image href="D:\软件\My Repository\jtalk\source\_posts\" />
-      <enclosure url="D:\软件\My Repository\jtalk\source\_posts\https://jtalks.b-cdn.net/audio/007-%E7%94%A8GTD%E5%AF%B9%E6%8A%97%E7%84%A6%E8%99%91%E2%80%94%E2%80%94%E3%80%8C%E6%90%9E%E5%AE%9AI%E2%80%94%E2%80%94%E6%97%A0%E5%8E%8B%E5%8A%9B%E5%B7%A5%E4%BD%9C%E7%9A%84%E8%89%BA%E6%9C%AF%E3%80%8D/%E5%81%87%E5%A6%82%E4%B8%80%E4%B8%AA%E6%B4%BB%E4%BA%86%E4%B8%80%E4%B8%87%E5%9B%9B%E5%8D%83%E5%B9%B4%E5%9D%90%E5%9C%A8%E4%BD%A0%E9%9D%A2%E5%89%8D.m4a" length="" type=""/>
+      <itunes:image href="https://jtalks.b-cdn.net/audio/" />
+      <enclosure url="https://jtalks.b-cdn.net/audio/https://jtalks.b-cdn.net/audio/007-%E7%94%A8GTD%E5%AF%B9%E6%8A%97%E7%84%A6%E8%99%91%E2%80%94%E2%80%94%E3%80%8C%E6%90%9E%E5%AE%9AI%E2%80%94%E2%80%94%E6%97%A0%E5%8E%8B%E5%8A%9B%E5%B7%A5%E4%BD%9C%E7%9A%84%E8%89%BA%E6%9C%AF%E3%80%8D/%E5%81%87%E5%A6%82%E4%B8%80%E4%B8%AA%E6%B4%BB%E4%BA%86%E4%B8%80%E4%B8%87%E5%9B%9B%E5%8D%83%E5%B9%B4%E5%9D%90%E5%9C%A8%E4%BD%A0%E9%9D%A2%E5%89%8D.m4a" length="" type=""/>
       <guid></guid>
       <pubDate>Thu, 11 Jul 2019 15:40:25 GMT</pubDate>
       <itunes:duration>00:35:47</itunes:duration>
@@ -80,8 +80,8 @@
       <itunes:author> Jane Gao</itunes:author>
       <itunes:subtitle> </itunes:subtitle>
       <itunes:summary>  </itunes:summary>
-      <itunes:image href="D:\软件\My Repository\jtalk\source\_posts\" />
-      <enclosure url="D:\软件\My Repository\jtalk\source\_posts\https://jtalks.b-cdn.net/audio/006-%E5%81%87%E5%A6%82%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%B4%BB%E4%BA%86%E4%B8%80%E4%B8%87%E5%9B%9B%E5%8D%83%E5%B9%B4/%E5%81%87%E5%A6%82%E4%B8%80%E4%B8%AA%E6%B4%BB%E4%BA%86%E4%B8%80%E4%B8%87%E5%9B%9B%E5%8D%83%E5%B9%B4%E5%9D%90%E5%9C%A8%E4%BD%A0%E9%9D%A2%E5%89%8D.m4a" length="" type=""/>
+      <itunes:image href="https://jtalks.b-cdn.net/audio/" />
+      <enclosure url="https://jtalks.b-cdn.net/audio/https://jtalks.b-cdn.net/audio/006-%E5%81%87%E5%A6%82%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%B4%BB%E4%BA%86%E4%B8%80%E4%B8%87%E5%9B%9B%E5%8D%83%E5%B9%B4/%E5%81%87%E5%A6%82%E4%B8%80%E4%B8%AA%E6%B4%BB%E4%BA%86%E4%B8%80%E4%B8%87%E5%9B%9B%E5%8D%83%E5%B9%B4%E5%9D%90%E5%9C%A8%E4%BD%A0%E9%9D%A2%E5%89%8D.m4a" length="" type=""/>
       <guid></guid>
       <pubDate>Thu, 11 Jul 2019 15:35:44 GMT</pubDate>
       <itunes:duration>00:10:56</itunes:duration>
@@ -116,8 +116,8 @@
       <itunes:author> Jane Gao</itunes:author>
       <itunes:subtitle> </itunes:subtitle>
       <itunes:summary>  </itunes:summary>
-      <itunes:image href="D:\软件\My Repository\jtalk\source\_posts\" />
-      <enclosure url="D:\软件\My Repository\jtalk\source\_posts\https://jtalks.b-cdn.net/audio/005-%E4%B8%80%E9%83%A8%E5%85%B3%E4%BA%8E%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%E7%9A%84%E7%BE%8E%E5%89%A7-%E2%80%94%E2%80%94-%E3%80%8C%E6%9D%B0%E8%A5%BF%E5%8D%A1%C2%B7%E7%90%BC%E6%96%AF%E3%80%8D/005%20%E4%B8%80%E9%83%A8%E5%85%B3%E4%BA%8E%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%E7%9A%84%E7%BE%8E%E5%89%A7%20%E2%80%94%E2%80%94%20%E3%80%8C%E6%9D%B0%E8%A5%BF%E5%8D%A1%C2%B7%E7%90%BC%E6%96%AF%E3%80%8D%20.m4a" length="" type=""/>
+      <itunes:image href="https://jtalks.b-cdn.net/audio/" />
+      <enclosure url="https://jtalks.b-cdn.net/audio/https://jtalks.b-cdn.net/audio/005-%E4%B8%80%E9%83%A8%E5%85%B3%E4%BA%8E%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%E7%9A%84%E7%BE%8E%E5%89%A7-%E2%80%94%E2%80%94-%E3%80%8C%E6%9D%B0%E8%A5%BF%E5%8D%A1%C2%B7%E7%90%BC%E6%96%AF%E3%80%8D/005%20%E4%B8%80%E9%83%A8%E5%85%B3%E4%BA%8E%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%E7%9A%84%E7%BE%8E%E5%89%A7%20%E2%80%94%E2%80%94%20%E3%80%8C%E6%9D%B0%E8%A5%BF%E5%8D%A1%C2%B7%E7%90%BC%E6%96%AF%E3%80%8D%20.m4a" length="" type=""/>
       <guid></guid>
       <pubDate>Thu, 11 Jul 2019 15:31:30 GMT</pubDate>
       <itunes:duration>00:23:16</itunes:duration>
@@ -152,8 +152,8 @@
       <itunes:author> Jane Gao</itunes:author>
       <itunes:subtitle> </itunes:subtitle>
       <itunes:summary>  </itunes:summary>
-      <itunes:image href="D:\软件\My Repository\jtalk\source\_posts\" />
-      <enclosure url="D:\软件\My Repository\jtalk\source\_posts\https://jtalks.b-cdn.net/audio/004-%E3%80%8A%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8%E3%80%8B%E5%AE%8C%E7%BB%93%E4%BA%86/004%20%E3%80%8A%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8%E3%80%8B%E5%AE%8C%E7%BB%93%E4%BA%86.m4a" length="" type=""/>
+      <itunes:image href="https://jtalks.b-cdn.net/audio/" />
+      <enclosure url="https://jtalks.b-cdn.net/audio/https://jtalks.b-cdn.net/audio/004-%E3%80%8A%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8%E3%80%8B%E5%AE%8C%E7%BB%93%E4%BA%86/004%20%E3%80%8A%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8%E3%80%8B%E5%AE%8C%E7%BB%93%E4%BA%86.m4a" length="" type=""/>
       <guid></guid>
       <pubDate>Thu, 11 Jul 2019 15:27:43 GMT</pubDate>
       <itunes:duration>00:16:14</itunes:duration>
@@ -188,8 +188,8 @@
       <itunes:author> Jane Gao</itunes:author>
       <itunes:subtitle> </itunes:subtitle>
       <itunes:summary>  </itunes:summary>
-      <itunes:image href="D:\软件\My Repository\jtalk\source\_posts\" />
-      <enclosure url="D:\软件\My Repository\jtalk\source\_posts\https://jtalks.b-cdn.net/audio/002-%E5%81%A5%E8%BA%AB%E6%95%99%E4%BC%9A%E6%88%91%E7%9A%84%E4%BA%8B/002%20%E5%81%A5%E8%BA%AB%E6%95%99%E4%BC%9A%E6%88%91%E7%9A%84%E4%BA%8B.m4a" length="" type=""/>
+      <itunes:image href="https://jtalks.b-cdn.net/audio/" />
+      <enclosure url="https://jtalks.b-cdn.net/audio/https://jtalks.b-cdn.net/audio/002-%E5%81%A5%E8%BA%AB%E6%95%99%E4%BC%9A%E6%88%91%E7%9A%84%E4%BA%8B/002%20%E5%81%A5%E8%BA%AB%E6%95%99%E4%BC%9A%E6%88%91%E7%9A%84%E4%BA%8B.m4a" length="" type=""/>
       <guid></guid>
       <pubDate>Thu, 11 Jul 2019 15:16:56 GMT</pubDate>
       <itunes:duration>00:07:33</itunes:duration>
@@ -225,8 +225,8 @@
       <itunes:author> Jane Gao</itunes:author>
       <itunes:subtitle> </itunes:subtitle>
       <itunes:summary>  </itunes:summary>
-      <itunes:image href="D:\软件\My Repository\jtalk\source\_posts\" />
-      <enclosure url="D:\软件\My Repository\jtalk\source\_posts\https://jtalks.b-cdn.net/audio/001%E3%80%8A%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E3%80%8B%E6%98%AF%E5%A6%82%E4%BD%95%E8%AE%B2%E6%95%85%E4%BA%8B%E7%9A%84/001.mp3" length="" type=""/>
+      <itunes:image href="https://jtalks.b-cdn.net/audio/" />
+      <enclosure url="https://jtalks.b-cdn.net/audio/https://jtalks.b-cdn.net/audio/001%E3%80%8A%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E3%80%8B%E6%98%AF%E5%A6%82%E4%BD%95%E8%AE%B2%E6%95%85%E4%BA%8B%E7%9A%84/001.mp3" length="" type=""/>
       <guid></guid>
       <pubDate>Fri, 07 Dec 2018 08:46:41 GMT</pubDate>
       <itunes:duration>00:23:16</itunes:duration>
