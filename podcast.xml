@@ -26,7 +26,7 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-vONVzZeX&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-NuJlfqFl&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -62,7 +62,7 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-uUWoTAwd&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-mLEPhrxu&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -98,7 +98,7 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-MizUNCuh&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-ZhefTHiA&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -134,7 +134,7 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-LXNSWGcV&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-hIzyqqcp&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -170,7 +170,7 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-IeoYeEVc&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-sjuhNHvk&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -206,7 +206,7 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-dMYlFlqU&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-uEoprQPq&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
